@@ -141,6 +141,7 @@ Gender detection for voice assistants
 Call center analytics
 
 Audio-based biometric authentication
+
 📄 License
 
 This project is for educational purposes.
